@@ -26,6 +26,8 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
+  assets:
+    - assets/wasm/
   plugin:
     platforms:
       android:
